@@ -1,0 +1,33 @@
+hello   xin chao
+bye tam biet
+fact     Việc
+product Sản phẩm
+idea    Ý kiến
+temperature Nhiệt độ
+investment Đầu tư
+area Khu vực
+society Xã hội
+ctivity Hoạt động
+story Câu chuyện
+industry Ngành công nghiệp
+media Phương tiện truyền thông
+thing những vật
+oven Lò nướng
+community Cộng đồng
+safety Sự an toàn
+quality Chất lượng
+development Phát triển
+language Ngôn ngữ
+management Quản lý
+player Người chơi
+variety Nhiều
+video Video
+week Tuần
+security An ninh
+country Nước
+exam Thi
+movie Phim
+organization Cơ quan
+equipment Thiết bị
+physics Vật lý
+analysis Nghiên cứu
