@@ -5,6 +5,7 @@
  */
 package tudienanhviet;
 
+import java.awt.event.KeyEvent;
 import static tudienanhviet.DictionaryCommandLine.showAllWorlds;
 import static tudienanhviet.DictionaryManagement.*;
 import static tudienanhviet.Dictionary.*;
@@ -31,6 +32,8 @@ public class NewJFrame extends javax.swing.JFrame {
     // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
     private void initComponents() {
 
+        jScrollPane2 = new javax.swing.JScrollPane();
+        jList1 = new javax.swing.JList<>();
         jTextField1 = new javax.swing.JTextField();
         jScrollPane1 = new javax.swing.JScrollPane();
         jTextArea1 = new javax.swing.JTextArea();
@@ -48,8 +51,27 @@ public class NewJFrame extends javax.swing.JFrame {
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         getContentPane().setLayout(null);
 
+        jList1.setFont(new java.awt.Font("Calibri", 0, 18)); // NOI18N
+        jList1.setRequestFocusEnabled(false);
+        jList1.setVisibleRowCount(2);
+        jList1.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                jList1MouseClicked(evt);
+            }
+        });
+        jList1.addListSelectionListener(new javax.swing.event.ListSelectionListener() {
+            public void valueChanged(javax.swing.event.ListSelectionEvent evt) {
+                jList1ValueChanged(evt);
+            }
+        });
+        jScrollPane2.setViewportView(jList1);
+
+        getContentPane().add(jScrollPane2);
+        jScrollPane2.setBounds(10, 60, 270, 220);
+
         jTextField1.setFont(new java.awt.Font("Arial", 0, 24)); // NOI18N
         jTextField1.setText("Search");
+        jTextField1.setToolTipText("Search");
         jTextField1.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
                 jTextField1MouseClicked(evt);
@@ -58,6 +80,11 @@ public class NewJFrame extends javax.swing.JFrame {
         jTextField1.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jTextField1ActionPerformed(evt);
+            }
+        });
+        jTextField1.addKeyListener(new java.awt.event.KeyAdapter() {
+            public void keyReleased(java.awt.event.KeyEvent evt) {
+                jTextField1KeyReleased(evt);
             }
         });
         getContentPane().add(jTextField1);
@@ -73,9 +100,10 @@ public class NewJFrame extends javax.swing.JFrame {
         jScrollPane1.setBounds(280, 0, 250, 390);
 
         jLabel1.setFont(new java.awt.Font("Calibri", 0, 18)); // NOI18N
+        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/tudienanhviet/115754f19290f70.jpg"))); // NOI18N
         jLabel1.setText("Search");
         getContentPane().add(jLabel1);
-        jLabel1.setBounds(20, 0, 70, 30);
+        jLabel1.setBounds(20, 0, 100, 30);
 
         jButton3.setFont(new java.awt.Font("Calibri", 0, 18)); // NOI18N
         jButton3.setText("Edit Word");
@@ -90,21 +118,21 @@ public class NewJFrame extends javax.swing.JFrame {
         jLabel2.setFont(new java.awt.Font("Calibri", 0, 18)); // NOI18N
         jLabel2.setText("ADD Word");
         getContentPane().add(jLabel2);
-        jLabel2.setBounds(10, 90, 80, 26);
+        jLabel2.setBounds(10, 300, 80, 26);
 
         jLabel3.setFont(new java.awt.Font("Calibri", 0, 18)); // NOI18N
         jLabel3.setText("English");
         getContentPane().add(jLabel3);
-        jLabel3.setBounds(10, 130, 60, 20);
+        jLabel3.setBounds(10, 340, 60, 20);
 
         jTextField2.setFont(new java.awt.Font("Calibri", 0, 18)); // NOI18N
         getContentPane().add(jTextField2);
-        jTextField2.setBounds(110, 120, 170, 30);
+        jTextField2.setBounds(110, 330, 170, 30);
 
         jLabel4.setFont(new java.awt.Font("Calibri", 0, 18)); // NOI18N
         jLabel4.setText("Vietnamese");
         getContentPane().add(jLabel4);
-        jLabel4.setBounds(10, 150, 100, 30);
+        jLabel4.setBounds(10, 360, 100, 30);
 
         jTextField3.setFont(new java.awt.Font("Calibri", 0, 18)); // NOI18N
         jTextField3.addActionListener(new java.awt.event.ActionListener() {
@@ -113,7 +141,7 @@ public class NewJFrame extends javax.swing.JFrame {
             }
         });
         getContentPane().add(jTextField3);
-        jTextField3.setBounds(110, 150, 170, 30);
+        jTextField3.setBounds(110, 360, 170, 30);
 
         jButton1.setFont(new java.awt.Font("Calibri", 0, 18)); // NOI18N
         jButton1.setText("Delete Word");
@@ -135,11 +163,11 @@ public class NewJFrame extends javax.swing.JFrame {
             }
         });
         getContentPane().add(jButton2);
-        jButton2.setBounds(110, 180, 90, 30);
+        jButton2.setBounds(110, 390, 90, 30);
 
         jLabel6.setIcon(new javax.swing.ImageIcon("C:\\Users\\Huynh\\Documents\\NetBeansProjects\\Diem\\src\\tudienanhviet\\blue0517.jpg")); // NOI18N
         getContentPane().add(jLabel6);
-        jLabel6.setBounds(-20, -10, 730, 450);
+        jLabel6.setBounds(-10, 0, 730, 450);
 
         setSize(new java.awt.Dimension(546, 463));
         setLocationRelativeTo(null);
@@ -159,11 +187,6 @@ public class NewJFrame extends javax.swing.JFrame {
     private void jTextField3ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField3ActionPerformed
         // TODO add your handling code here:
     }//GEN-LAST:event_jTextField3ActionPerformed
-
-    private void jTextField1MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jTextField1MouseClicked
-        jTextField1.setText("");
-        // TODO add your handling code here:
-    }//GEN-LAST:event_jTextField1MouseClicked
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
         Word w = new Word();
@@ -195,6 +218,47 @@ public class NewJFrame extends javax.swing.JFrame {
         w.setWord_explain(jTextField3.getText());
         addfile(w);
     }//GEN-LAST:event_jButton2ActionPerformed
+
+    private void jTextField1KeyReleased(java.awt.event.KeyEvent evt) {//GEN-FIRST:event_jTextField1KeyReleased
+        // TODO add your handling code here:
+        int dem = 0;
+        String[] a = new String[dic.arr.size()];
+        for (int i = 0; i < dic.arr.size(); i++) {
+            if(dic.arr.get(i).getWord_target().contains(jTextField1.getText().trim())){                
+                a[dem]= dic.arr.get(i).getWord_target();
+                dem++;
+            }
+        }
+        
+        jList1.setListData(a);
+//        for (int i=0;i< dic.arr.size(); i++ ) {
+//            if(dic.arr.get(i).getWord_target().equals(jTextField1.getText().trim())){
+//                jTextArea1.setText(dic.arr.get(i).getWord_explain());
+//            }
+//        }
+    }//GEN-LAST:event_jTextField1KeyReleased
+
+    private void jList1ValueChanged(javax.swing.event.ListSelectionEvent evt) {//GEN-FIRST:event_jList1ValueChanged
+        // TODO add your handling code here:
+        jTextField1.setText(jList1.getSelectedValue());
+        for (int i=0;i< dic.arr.size(); i++ ) {
+            if(dic.arr.get(i).getWord_target().equals(jTextField1.getText().trim())){
+                jTextArea1.setText(dic.arr.get(i).getWord_explain());
+            }
+        }
+
+        
+    }//GEN-LAST:event_jList1ValueChanged
+
+    private void jTextField1MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jTextField1MouseClicked
+        jTextField1.setText("");
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jTextField1MouseClicked
+
+    private void jList1MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jList1MouseClicked
+        // TODO add your handling code here:
+        //jTextField1.setText(jList1.)
+    }//GEN-LAST:event_jList1MouseClicked
 
     /**
      * @param args the command line arguments
@@ -246,7 +310,9 @@ public class NewJFrame extends javax.swing.JFrame {
     private javax.swing.JLabel jLabel3;
     private javax.swing.JLabel jLabel4;
     private javax.swing.JLabel jLabel6;
+    private javax.swing.JList<String> jList1;
     private javax.swing.JScrollPane jScrollPane1;
+    private javax.swing.JScrollPane jScrollPane2;
     private javax.swing.JTextArea jTextArea1;
     private javax.swing.JTextField jTextField1;
     private javax.swing.JTextField jTextField2;
