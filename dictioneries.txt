@@ -1,4 +1,4 @@
-abandon v. /ə'bændən/ bỏ, từ bỏ
+﻿abandon v. /ə'bændən/ bỏ, từ bỏ
 abandoned adj. /ə'bændənd/ bị bỏ rơi, bị ruồng bỏ
 ability n. /ə'biliti/ khả năng, năng lực
 able adj. /'eibl/ có năng lực, có tài
@@ -2038,7 +2038,7 @@ manage v. /'mæniʤ/ quản lý, trông nom, điều khiển
 management n. /'mænidʒmənt/ sự quản lý, sự trông nom, sự điều khiển
 manager n. /ˈmænɪdʒər/ người quản lý, giám đốc
 manner n. /'mænз/ cách, lối, kiểu; dáng, vẻ, thái độ
-manufacture v., n. /,mænju'fæktʃə/ 
+manufacture v., n. /,mænju'fæktʃə/
 manufacturing n. /¸mænju´fæktʃəriη/ sự sản xuất, sự chế tạo
 manufacturer n. /¸mæni´fæktʃərə/ người chế tạo, người sản xuất
 many det., pron. /'meni/ nhiều
@@ -2158,9 +2158,9 @@ moving adj. /'mu:viɳ/ động, hoạt động
 movement n. /'mu:vmənt/ sự chuyển động, sự hoạt động; cử động, động tác
 movie n. (especially NAmE) /´mu:vi/ phim xi nê
 movie theater n. (NAmE) rạp chiếu phim
-Mr (BrE) (also Mr. NAmE, BrE) abbr. 
-Mrs (BrE) (also Mrs. NAmE, BrE) abbr. 
-Ms (BrE) (also Ms. NAmE, BrE) abbr. 
+Mr (BrE) (also Mr. NAmE, BrE) abbr.
+Mrs (BrE) (also Mrs. NAmE, BrE) abbr.
+Ms (BrE) (also Ms. NAmE, BrE) abbr.
 much det., pron., adv. /mʌtʃ/ nhiều, lắm
 mud n. /mʌd/ bùn
 multiply v. /'mʌltiplai/ nhân lên, làm tăng lên nhiều lần; sinh sôi nảy nở
@@ -2225,7 +2225,7 @@ nobody (also no one) pron. /'noubədi/ không ai, không người nào
 noise n. /nɔiz/ tiếng ồn, sự huyên náo
 noisy adj. /´nɔizi/ ồn ào, huyên náo
 noisily adv. /´nɔizili/ ồn ào, huyên náo
-non- prefix 
+non- prefix
 none pron. /nʌn/ không ai, không người, vật gì
 nonsense n. /´nɔnsəns/ lời nói vô lý, vô nghĩa
 nor conj., adv. /no:/ cũng không
@@ -2386,7 +2386,7 @@ penny /´peni/ đồng xu
 pencil n. /´pensil/ bút chì
 penny n. (abbr. p) /´peni/ số tiền
 pension n. /'penʃn/ tiền trợ cấp, lương hưu
-people n. /ˈpipəl/ dân tộc, dòng giống; người 
+people n. /ˈpipəl/ dân tộc, dòng giống; người
 pepper n. /´pepə/ hạt tiêu, cây ớt
 per prep. /pə:/ cho mỗi
 per cent (NAmE usually percent) n., adj., adv. phần trăm
@@ -2526,7 +2526,7 @@ press n., v. /pres/ sự ép, sự nén, sự ấn; ép, nén, bóp, ấn
 pressure n. /'preʃə/ sức ép, áp lực, áp suất
 presumably adv. /pri'zju:məbli/ có thể được, có lẽ
 pretend v. /pri'tend/ giả vờ, giả bộ, làm ra vẻ
-pretty adv., adj. /'priti/ khá, vừa phải; xinh, xinh xắn;, đẹp 
+pretty adv., adj. /'priti/ khá, vừa phải; xinh, xinh xắn;, đẹp
 prevent v. /pri'vent/ ngăn cản, ngăn chặn, ngăn ngừa
 previous adj. /ˈpriviəs/ vội vàng, hấp tấp; trước (vd. ngày hôm trước), ưu tiên
 previously adv. /´pri:viəsli/ trước, trước đây
@@ -2647,14 +2647,14 @@ rate n., v. /reit/ tỷ lệ, tốc độ
 rather adv. /'rɑ:ðə/ thà.. còn hơn, thích... hơn
 rather than hơn là
 raw adj. /rɔ:/ sống (# chín), thô, còn nguyên chất
-re  prefix 
+re  prefix
 reach v. /ri:tʃ/ đến, đi đến, tới
 react v. /ri´ækt/ tác động trở lại, phản ứng
 reaction n. /ri:'ækʃn/ sự phản ứng; sự phản tác dụng
-read v. /ri/ đọc 
+read v. /ri/ đọc
 reading n. /´riiη/ sự đọc
 reader n. /´riə/ người đọc, độc giả
-ready adj. /'redi/ sẵn sàng 
+ready adj. /'redi/ sẵn sàng
 real adj. /riəl/ thực, thực tế, có thật
 really adv. /'riəli/ thực, thực ra, thực sự
 realistic adj. /ri:ə'listik; BrE also riə-/ hiện thực
@@ -2729,7 +2729,7 @@ rented adj. /rentid/ được thuê, được mướn
 repair v., n. /ri'peə/ sửa chữa, chỉnh tu; sự sửa chữa, sự chỉnh tu
 repeat v. /ri'pi:t/ /ri'pi:t/ nhắc lại, lặp lại
 repeated adj. /ri´pi:tid/ được nhắc lại, được lặp lại
-repeatedly adv. /ri´pi:tidli/ lặp đi lặp lại nhiều lần 
+repeatedly adv. /ri´pi:tidli/ lặp đi lặp lại nhiều lần
 replace v. /rɪpleɪs/ thay thế
 reply n., v. /ri'plai/ sự trả lời, sự hồi âm; trả lời, hồi âm
 report v., n. /ri'pɔ:t/ báo cáo, tường trình; bản báo cáo, bản tường trình
@@ -2887,7 +2887,7 @@ seem linking v. /si:m/ có vẻ như, dường như
 select v. /si´lekt/ chọn lựa, chọn lọc
 selection n. /si'lekʃn/ sự lựa chọn, sự chọc lọc
 self n. /self/ bản thân mình
-self- combining form 
+self- combining form
 sell v. /sel/ bán
 senate n. /´senit/ thượng nghi viện, ban giám hiệu
 senator n. /ˈsɛnətər/ thượng nghị sĩ
@@ -2983,7 +2983,7 @@ simply adv. /´simpli/ một cách dễ dàng, giản dị
 since prep., conj., adv. /sins/ từ, từ khi; từ khi, từ lúc đó; từ đó, từ lúc ấy
 sincere adj. /sin´siə/ thật thà, thẳng thắng, chân thành
 sincerely adv. /sin'siəli/ một cách chân thành
-Yours sincerely (BrE) bạn chân thành của anh, chị.. (viết ở cuối thư) 
+Yours sincerely (BrE) bạn chân thành của anh, chị.. (viết ở cuối thư)
 sing v. /siɳ/ hát, ca hát
 singing n. /´siηiη/ sự hát, tiếng hát
 singer n. /´siηə/ ca sĩ
@@ -3244,7 +3244,7 @@ sympathetic adj. /¸simpə´θetik/ đồng cảm, đáng mến, dễ thương
 sympathy n. /´simpəθi/ sự đồng cảm, sự đồng ý
 system n. /'sistim/ hệ thống, chế độ
 table n. /'teibl/ cái bàn
-tablet n. /'tæblit/ tấm, bản, thẻ phiến 
+tablet n. /'tæblit/ tấm, bản, thẻ phiến
 tackle v., n. /'tækl/ or /'teikl/ giải quyết, khắc phục, bàn thảo; đồ dùng, dụng cụ
 tail n. /teil/ đuôi, đoạn cuối
 take v. /teik/ sự cầm nắm, sự lấy
@@ -3331,11 +3331,11 @@ ticket n. /'tikit/ vé
 tidy adj., v. /´taidi/ sạch sẽ, ngăn nắp, gọn gàng; làm cho sạch sẽ, gọn gàng, ngăn nắp
 untidy adj. /ʌn´taidi/ không gọn gàng, không ngăn nắp, lộn xộn
 tie v., n. /tai/ buộc, cột, trói; dây buộc, daay trói, dây giày
-tie sth up có quan hệ mật thiết, gắn chặt 
+tie sth up có quan hệ mật thiết, gắn chặt
 tight adj., adv. /tait/ kín, chặt, chật
 tightly adv. /'taitli/ chặc chẽ, sít sao
 till until /til/ cho đến khi, tới lúc mà
-time n. /taim/ thời gian, thì giờ 
+time n. /taim/ thời gian, thì giờ
 timetable n. (especially BrE) /´taimteibl/ kế hoạch làm việc, thời gian biểu
 tin n. /tɪn/ thiếc
 tiny adj. /'taini/ rất nhỏ, nhỏ xíu
@@ -3484,7 +3484,7 @@ upset v., adj. /ʌpˈsɛt/ làm đổ, đánh đổ
 upsetting adj. /ʌp´setiη/ tính đánh đổ, làm đổ
 upside down adv. /´ʌp¸said/ lộn ngược
 upstairs adv., adj., n. /´ʌp´stɛəz/ ở tên gác, cư ngụ ở tầng gác; tầng trên, gác
-upwards (also upward especially in NAmE) adv. 
+upwards (also upward especially in NAmE) adv.
 upward adj. /'ʌpwəd/ lên, hướng lên, đi lên
 urban adj. /ˈɜrbən/ (thuộc) thành phố, khu vực
 urge v., n. /əʒ/ thúc, giục, giục giã; sự thúc đẩy, sự thôi thúc
@@ -3570,8 +3570,8 @@ weapon n. /'wepən/ vũ khí
 wear v. /weə/ mặc, mang, đeo
 weather n. /'weθə/ thời tiết
 web n. /wɛb/ mạng, lưới
-the Web n. 
-website n. không gian liên tới với Internet 
+the Web n.
+website n. không gian liên tới với Internet
 wedding n. /ˈwɛdɪŋ/ lễ cưới, hôn lễ
 Wednesday n. (abbr. Wed., Weds.) /´wensdei/ thứ 4
 week n. /wi:k/ tuần, tuần lễ
@@ -3582,7 +3582,7 @@ weight n. /'weit/ trọng lượng
 welcome v., adj., n., exclamation /'welkʌm/ chào mừng, hoan nghênh
 well adv., adj., exclamation /wel/ tốt, giỏi; ôi, may quá!
 as well (as) cũng, cũng như
-well known know 
+well known know
 west n., adj., adv. /west/ phía Tây, theo phía tây, về hướng tây
 western adj. /'westn/ về phía tây, của phía tây
 wet adj. /wɛt/ ướt, ẩm ướt
@@ -3632,7 +3632,7 @@ winter n. /ˈwɪntər/ mùa đông
 wire n. /waiə/ dây (kim loại)
 wise adj. /waiz/ khôn ngoan, sáng suốt, thông thái
 wish v., n. /wi∫/ ước, mong muốn; sự mong ước, lòng mong muốn
-with prep. /wið/ với, cùng 
+with prep. /wið/ với, cùng
 withdraw v. /wɪðˈdrɔ , wɪθˈdrɔ/ rút, rút khỏi, rút lui
 within prep. /wið´in/ trong vong thời gian, trong khoảng thời gian
 without prep. /wɪðˈaʊt , wɪθaʊt/ không, không có
@@ -3654,7 +3654,7 @@ worried adj. /´wʌrid/ bồn chồn, lo nghĩ, tỏ ra lo lắng
 worse, worst bad xấu
 worship n., v. /ˈwɜrʃɪp/ sự tôn thờ, sự tôn sùng; thờ, thờ phụng, tôn thờ
 worth adj. /wɜrθ/ đáng giá, có giá trị
-would modal v. /wud/ 
+would modal v. /wud/
 wound n., v. /waund/ vết thương, thương tích; làm bị thường, gây thương tích
 wounded adj. /'wu:ndid/ bị thương
 wrap v. /ræp/ gói, bọc, quấn
@@ -3681,5 +3681,5 @@ your det. /jo:/ của anh, của chị, của ngài, của mày; của các anh,
 yours pron. /jo:z/ cái của anh, cái của chị, cái của ngài, cái của mày; cái của các anh, cái của các chị, cái của các ngài, cái của chúng mày
 yourself pron. /jɔ:'self/ tự anh, tự chị, chính anh, chính mày, tự mày, tự mình
 youth n. /ju:θ/ tuổi trẻ, tuổi xuân, tuổi thanh niên, tuổi niên thiếu
-hello	n. /hз'lou/ chào, xin chào;           lời chào
 love	n., v. /lʌv/ tình yêu, lòng yêu       thương; yêu thích                          EX:                                                     I love yeu (Thư) <3
+hello n. /hз'lou/ chào, xin chào;           lời chào                                                     EX: Hello Huynh
