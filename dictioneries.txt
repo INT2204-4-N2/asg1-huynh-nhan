@@ -1623,7 +1623,6 @@ hatred n. /'heitrid/ lòng căm thì, sự căm ghét
 have v., auxiliary v. /hæv, həv/ có
 have to modal v. phải (bắt buộc, có bổn phận phải)
 he pron. /hi:/ nó, anh ấy, ông ấy 
-head n., v. /hed/ cái đầu (người, thú); chỉ huy, lãnh đại, dẫn đầu
 headache n. /'hedeik/ chứng nhức đầu
 heal v. /hi:l/ chữa khỏi, làm lành
 health n. /hɛlθ/ sức khỏe, thể chất, sự lành mạnh
@@ -3682,4 +3681,5 @@ yours pron. /jo:z/ cái của anh, cái của chị, cái của ngài, cái củ
 yourself pron. /jɔ:'self/ tự anh, tự chị, chính anh, chính mày, tự mày, tự mình
 youth n. /ju:θ/ tuổi trẻ, tuổi xuân, tuổi thanh niên, tuổi niên thiếu
 love	n., v. /lʌv/ tình yêu, lòng yêu       thương; yêu thích                          EX:                                                     I love yeu (Thư) <3
-hello n. /hз'lou/ chào, xin chào;           lời chào                                                     EX: Hello Huynh
+head	n., v. /hed/ cái đầu (người, thú); chỉ huy, lãnh đại, dẫn đầu
+hello	n. /hз'lou/ chào, xin chào;           lời chào                                           EX:     Hello Huynh
