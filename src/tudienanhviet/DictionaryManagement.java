@@ -132,5 +132,108 @@ public class DictionaryManagement {
         }
 
     }
+    public static void menu() {
+        System.out.println("----------Tu Điển-----------");
+        int n = 0;
+        do {
+            System.out.println("1. Basic Dictionary");
+            System.out.println("2. Advanced Dictionary");
+            System.out.println("3. Searcher");
+            System.out.println("0. Exit");
+            Scanner sc = new Scanner(System.in);
+            n = sc.nextInt();
+            switch (n) {
+                case 1:
+                    dictionaryBasic();
+                    break;
+                case 2:
+                    dictionaryAdvanced();
+                    break;
+                case 3:
+                    dictionarySearcher();
+                    break;
+                default:
+                    if(n!=0)
+                        System.out.println("Nhap sai!");
+            }
 
+        } while (n > 3);
+    }
+
+    public static void deleteword(Word w){
+        dic.arr.remove(w);
+        try {
+            File file = new File("dictioneries.txt");
+
+            FileReader fr = new FileReader(file);
+            BufferedReader br = new BufferedReader(fr);
+            String line = "";
+            String line1 = "";
+            while ((line = br.readLine()) != null) {
+                Word word = new Word();
+                String[] wo = line.split("\\s", 2);
+                word.setWord_target(wo[0]);
+                word.setWord_explain(wo[1].trim());
+                if(!w.getWord_target().equals( wo[0])){
+                    line1 += line + "\n";
+                }
+            }
+
+
+            FileWriter fw = new FileWriter(file);
+            BufferedWriter bw = new BufferedWriter(fw);
+            bw.write(line1);
+            bw.close();
+            fw.close();
+
+
+        } catch (IOException ex) {
+            Logger.getLogger(DictionaryManagement.class.getName()).log(Level.SEVERE, null, ex);
+        }
+    }
+
+
+
+    public static void editword(Word word) {
+        Word editword = new Word();
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Sua Tieng Anh: ");
+        editword.setWord_target(sc.nextLine());
+        System.out.println("Sua Tieng Viet");
+        editword.setWord_explain(sc.nextLine());
+        dic.arr.add(editword);
+        deleteword(word);
+
+    }
+
+    public static void main(String[] args) {
+//        int m;
+//
+//        Scanner sr = new Scanner(System.in);
+
+//        System.out.println("Nhan 1 de nhap tu dien: ");
+//        System.out.println("Nhan 2 de xem tu dien: ");
+//        m = sr.nextInt();
+//        dictionaryBasic(m);
+        //showAllWorlds();
+//        menu();
+
+
+
+//        Word w = new Word();
+//        w.setWord_explain("6");
+//        w.setWord_target("hello");
+//        deleteword(w);
+//
+//        String s = "abc|a b v|abccd";
+//        String[] wo = s.split("\\|", 3);
+//        System.out.println(wo[0]);
+//        System.out.println(wo[1]);
+//        System.out.println(wo[2]);
+//
+        menu();
+
+
+    }
+}
 
