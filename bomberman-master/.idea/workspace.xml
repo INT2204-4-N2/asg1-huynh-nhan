@@ -1,7 +1,111 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef6c9a8a-757c-4581-88e1-f881978c8de0" name="Default" comment="" />
+    <list default="true" id="ef6c9a8a-757c-4581-88e1-f881978c8de0" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bomberman_NEW.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bomber.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/cpd-report.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/levels/Level1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/levels/Level2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/levels/Level3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/levels/Level4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/levels/Level5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/textures/classic.pdn" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/textures/classic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/carlosflorencio/bomberman/Board.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/carlosflorencio/bomberman/Bomberman.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/carlosflorencio/bomberman/Game.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/carlosflorencio/bomberman/entities/AnimatedEntitiy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/carlosflorencio/bomberman/entities/Entity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/carlosflorencio/bomberman/entities/LayeredEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/carlosflorencio/bomberman/entities/Message.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/carlosflorencio/bomberman/entities/bomb/Bomb.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/carlosflorencio/bomberman/entities/bomb/DirectionalExplosion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/carlosflorencio/bomberman/entities/bomb/Explosion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/carlosflorencio/bomberman/entities/mob/Mob.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/carlosflorencio/bomberman/entities/mob/Player.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/carlosflorencio/bomberman/entities/mob/enemy/Balloom.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/carlosflorencio/bomberman/entities/mob/enemy/Doll.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/carlosflorencio/bomberman/entities/mob/enemy/Enemy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/carlosflorencio/bomberman/entities/mob/enemy/Kondoria.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/carlosflorencio/bomberman/entities/mob/enemy/Minvo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/carlosflorencio/bomberman/entities/mob/enemy/Oneal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/carlosflorencio/bomberman/entities/mob/enemy/ai/AI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/carlosflorencio/bomberman/entities/mob/enemy/ai/AILow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/carlosflorencio/bomberman/entities/mob/enemy/ai/AIMedium.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/carlosflorencio/bomberman/entities/tile/GrassTile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/carlosflorencio/bomberman/entities/tile/PortalTile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/carlosflorencio/bomberman/entities/tile/Tile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/carlosflorencio/bomberman/entities/tile/WallTile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/carlosflorencio/bomberman/entities/tile/destroyable/BrickTile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/carlosflorencio/bomberman/entities/tile/destroyable/DestroyableTile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/carlosflorencio/bomberman/entities/tile/powerup/Powerup.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/carlosflorencio/bomberman/entities/tile/powerup/PowerupBombs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/carlosflorencio/bomberman/entities/tile/powerup/PowerupFlames.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/carlosflorencio/bomberman/entities/tile/powerup/PowerupSpeed.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/carlosflorencio/bomberman/exceptions/BombermanException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/carlosflorencio/bomberman/exceptions/LoadLevelException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/carlosflorencio/bomberman/graphics/IRender.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/carlosflorencio/bomberman/graphics/Screen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/carlosflorencio/bomberman/graphics/Sprite.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/carlosflorencio/bomberman/graphics/SpriteSheet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/carlosflorencio/bomberman/gui/CodeDialog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/carlosflorencio/bomberman/gui/Frame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/carlosflorencio/bomberman/gui/GamePanel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/carlosflorencio/bomberman/gui/InfoDialog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/carlosflorencio/bomberman/gui/InfoPanel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/carlosflorencio/bomberman/gui/menu/Game.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/carlosflorencio/bomberman/gui/menu/Help.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/carlosflorencio/bomberman/gui/menu/Menu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/carlosflorencio/bomberman/gui/menu/Options.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/carlosflorencio/bomberman/input/Keyboard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/carlosflorencio/bomberman/level/Coordinates.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/carlosflorencio/bomberman/level/FileLevel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/carlosflorencio/bomberman/level/ILevel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/carlosflorencio/bomberman/level/Level.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dictioneries.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled12/tudienanhviet/115754f19290f70.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled12/tudienanhviet/Dictionary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled12/tudienanhviet/DictionaryCommandLine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled12/tudienanhviet/DictionaryManagement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled12/tudienanhviet/NewJFrame$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled12/tudienanhviet/NewJFrame$10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled12/tudienanhviet/NewJFrame$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled12/tudienanhviet/NewJFrame$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled12/tudienanhviet/NewJFrame$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled12/tudienanhviet/NewJFrame$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled12/tudienanhviet/NewJFrame$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled12/tudienanhviet/NewJFrame$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled12/tudienanhviet/NewJFrame$8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled12/tudienanhviet/NewJFrame$9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled12/tudienanhviet/NewJFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled12/tudienanhviet/Word.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled12/tudienanhviet/blue0517.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/tudienanhviet/115754f19290f70.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/tudienanhviet/Dictionary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/tudienanhviet/DictionaryCommandLine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/tudienanhviet/DictionaryManagement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/tudienanhviet/NewJFrame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/tudienanhviet/Word.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/tudienanhviet/blue0517.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled12.iml" beforeDir="false" />
+    </list>
     <ignored path="Bomberman_NEW.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/bin/" />
@@ -48,117 +152,24 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-1181613570">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FavoritesManager">
     <favorites_list name="Bomberman_NEW" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/carlosflorencio/bomberman/entities/bomb/Bomb.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="76" column="27" lean-forward="true" selection-start-line="76" selection-start-column="8" selection-end-line="76" selection-end-column="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1844#1845#0" expanded="true" />
-                <element signature="e#1869#1870#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/carlosflorencio/bomberman/level/Coordinates.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/carlosflorencio/bomberman/level/FileLevel.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="39" column="64" selection-start-line="39" selection-start-column="60" selection-end-line="39" selection-end-column="64" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/carlosflorencio/bomberman/level/Level.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="8" column="4" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/carlosflorencio/bomberman/level/ILevel.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/carlosflorencio/bomberman/entities/bomb/DirectionalExplosion.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="45" column="4" lean-forward="true" selection-start-line="45" selection-start-column="4" selection-end-line="45" selection-end-column="4" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/carlosflorencio/bomberman/Board.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="41" column="47" selection-start-line="41" selection-start-column="47" selection-end-line="41" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/carlosflorencio/bomberman/graphics/Screen.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="82" column="9" lean-forward="true" selection-start-line="82" selection-start-column="9" selection-end-line="82" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/carlosflorencio/bomberman/entities/bomb/Explosion.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3">
-              <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/carlosflorencio/bomberman/entities/mob/Mob.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -174,13 +185,13 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="953" />
+    <option name="x" value="-8" />
     <option name="width" value="974" />
-    <option name="height" value="1047" />
+    <option name="height" value="788" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -284,7 +295,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../bomberman-starter-starter-project-1/bomberman-starter-starter-project-1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -432,10 +443,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
+    <frame x="-8" y="0" width="974" height="788" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18708971" />
-      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19146608" />
+      <window_info id="Structure" order="1" weight="0.24962178" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
@@ -443,7 +454,7 @@
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32968238" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30687022" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -569,17 +580,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/carlosflorencio/bomberman/level/Coordinates.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/carlosflorencio/bomberman/entities/bomb/Bomb.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="76" column="27" lean-forward="true" selection-start-line="76" selection-start-column="8" selection-end-line="76" selection-end-column="27" />
+          <caret line="76" column="27" selection-start-line="76" selection-start-column="8" selection-end-line="76" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1844#1845#0" expanded="true" />
@@ -588,48 +592,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/carlosflorencio/bomberman/entities/bomb/Explosion.java">
+    <entry file="file://$PROJECT_DIR$/src/com/carlosflorencio/bomberman/level/Coordinates.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3">
-          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/carlosflorencio/bomberman/entities/mob/Mob.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/carlosflorencio/bomberman/entities/bomb/DirectionalExplosion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="45" column="4" lean-forward="true" selection-start-line="45" selection-start-column="4" selection-end-line="45" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/carlosflorencio/bomberman/Board.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="41" column="47" selection-start-line="41" selection-start-column="47" selection-end-line="41" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/carlosflorencio/bomberman/graphics/Screen.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="82" column="9" lean-forward="true" selection-start-line="82" selection-start-column="9" selection-end-line="82" selection-end-column="9" />
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/carlosflorencio/bomberman/level/Level.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="8" column="4" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="34" />
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="34" />
         </state>
       </provider>
     </entry>
@@ -640,10 +613,48 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/carlosflorencio/bomberman/entities/bomb/DirectionalExplosion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="45" column="4" selection-start-line="45" selection-start-column="4" selection-end-line="45" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/carlosflorencio/bomberman/Board.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="41" column="47" selection-start-line="41" selection-start-column="47" selection-end-line="41" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/carlosflorencio/bomberman/graphics/Screen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1258">
+          <caret line="82" column="9" selection-start-line="82" selection-start-column="9" selection-end-line="82" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/carlosflorencio/bomberman/entities/bomb/Explosion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/carlosflorencio/bomberman/entities/mob/Mob.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/carlosflorencio/bomberman/level/FileLevel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="39" column="64" selection-start-line="39" selection-start-column="60" selection-end-line="39" selection-end-column="64" />
+        <state relative-caret-position="782">
+          <caret line="46" column="12" lean-forward="true" selection-start-line="46" selection-start-column="12" selection-end-line="46" selection-end-column="12" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
